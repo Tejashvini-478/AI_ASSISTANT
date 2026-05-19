@@ -2,6 +2,10 @@
 
 A full-stack business assistant with **AI chatbot**, **lead capture**, **SQLite storage**, **automation workflows**, and an **admin dashboard**. Built with Python and Streamlit.
 
+## Repository
+
+**GitHub:** [https://github.com/Tejashvini-478/chatbot](https://github.com/Tejashvini-478/chatbot)
+
 ## Live demo
 
 > **Deploy to Streamlit Cloud** (free, public URL) — see [Deployment](#deployment) below.  
