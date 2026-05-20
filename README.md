@@ -4,7 +4,7 @@ A full-stack business assistant with **AI chatbot**, **lead capture**, **SQLite 
 
 ## Repository
 
-**GitHub:** [https://github.com/Tejashvini-478/chatbot](https://github.com/Tejashvini-478/chatbot)
+**GitHub:** [https://github.com/Tejashvini-478/chatbot](https://github.com/Tejashvini-478/AI_ASSISTANT)
 
 ## Live demo
 
